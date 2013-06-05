@@ -1,0 +1,31 @@
+{
+  "name": "kkucharc-ganglia",
+  "author": "kkucharc",
+  "description": "",
+  "license": "",
+  "project_page": "",
+  "source": "",
+  "summary": "",
+  "version": "",
+  "checksums": {
+    ".project": "ea67b17f25cde5d798568bf8da8edaf3",
+    "Modulefile": "0320fd070c265c17a0959430aca507ca",
+    "README.markdown": "5a51f71b37b0617a8ff543d3923fba6e",
+    "Rakefile": "f37e6131fe7de9a49b09d31596f5fbf1",
+    "files/gmond.conf": "e19c320ea09ef2cec84bf80f661af577",
+    "manifests/.params.pp.swp": "8385988847bc039620494c5fe9d1963d",
+    "manifests/ganglia_init.pp": "9b49d0bffce3e56b48154fb40de926b5",
+    "manifests/gmetad/config.pp": "af44b0e9ee3438b1d44704c58cec18d1",
+    "manifests/gmetad/install.pp": "2e9d35f968b6090dcc3fa3c47f2a54f3",
+    "manifests/gmetad/run.pp": "46c4613a3e1e10dcdb1c77696a4b939e",
+    "manifests/gmond/config.pp": "4a601a10e7b19f225d2f1ee245051e7c",
+    "manifests/gmond/install.pp": "0869ea0f10733ee60d97d04420029f41",
+    "manifests/gmond/run.pp": "caf40d0ed4925ba8513625865e8c3595",
+    "manifests/init.pp": "31fb5fb4140d2facf2b27097f1f6cef1",
+    "manifests/params.pp": "5f441a3004a427849885b91fabd3f73d",
+    "spec/spec.opts": "a600ded995d948e393fbe2320ba8e51c",
+    "spec/spec_helper.rb": "3ea886dd135e120afa31e0aab12e85b0",
+    "tests/init.pp": "16ea8230851465c520681aedcef9df11"
+  },
+  "dependencies": []
+}
